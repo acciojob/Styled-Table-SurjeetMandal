@@ -1,1 +1,12 @@
-/* your code */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+*{
+	font-family: 'Poppins', sans-serif;
+}
+table{
+	width: 100%;
+}
+table thead{
+	border-radius: 50px;
+	color: white
+	background-color: black;
+}
