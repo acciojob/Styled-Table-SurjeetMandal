@@ -9,4 +9,16 @@ table thead{
 	border-radius: 50px;
 	color: white
 	background-color: black;
+	text-align: left;
+}
+thead tr th{
+	padding: 10px;
+	background-color: blue;
+	color: white;
+}
+tr td{
+	padding: 10px;
+}
+tr:nth-child(even){
+	background-color: lightgray;
 }
